@@ -11,3 +11,15 @@
   <a href="https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/yi_wang.php">Faculty Profile</a> •
   <a href="https://sc.edu/study/colleges_schools/engineering_and_computing/research/research_directory/wang_imsel.php">Research Directory</a>
 </p>
+
+---
+
+### Research Areas
+
+- **Computational & Data-Enabled Science** — Multiphysics and multiscale systems including fluid-structure interaction, microfluidics/nanofluidics, thermal management, and additive manufacturing
+- **Physics-Based Adaptive Modeling** — High-fidelity CFD/FEM to reduced-order models for real-time simulation and process control
+- **Data-Driven Surrogate Modeling** — Multi-fidelity approaches for multidisciplinary analysis and large-scale simulation
+- **Machine Learning & Data Analytics** — Engineering data mining, parameter estimation, uncertainty quantification, and green computing
+- **Microfluidics/Nanofluidics Systems** — Model development, system design, control synthesis, and hardware experimentation
+
+<p align="center"><em>Advancing engineering intelligence through integrated systems approaches.</em></p>
