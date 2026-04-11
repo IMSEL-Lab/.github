@@ -22,5 +22,8 @@
 - **Machine Learning & Data Analytics** — Engineering data mining, parameter estimation, uncertainty quantification, and green computing
 - **Microfluidics/Nanofluidics Systems** — Model development, system design, control synthesis, and hardware experimentation
 
+---
+
+<p align="center"><a href="https://github.com/orgs/IMSEL-Lab/repositories?q=topic%3Aactive">View Active Repositories</a></p>
 
 <p align="center"><em>Advancing engineering intelligence through integrated systems approaches.</em></p>
